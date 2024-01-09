@@ -1,0 +1,37 @@
+.img_source{
+    border-radius: 50%;
+    width: 60%;
+    height: 30%;
+    position: absolute;
+    top: 15%;
+    
+
+}
+.sub_container1{
+    background-color: rgb(92, 56, 85);
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    padding-bottom: 3cm;
+
+
+}
+.sub_container2{
+    padding-top: 3cm;
+    background-color: rgb(98, 100, 66);
+    font-size: 25px;
+}
+.sub_container_img{
+    background-color: rgb(163, 210, 120);
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    
+}
+.container_princ{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    
+    
+}
